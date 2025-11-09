@@ -1,8 +1,5 @@
-<h1 align="center">🌙✨ S a i  T e j a   A m b h i l i g e ✨🌙</h1>
-
+<h1 align="center">🌙✨ Sai Teja Ambhilige ✨🌙</h1>
 <h3 align="center">Aspiring Web Developer | UI/UX Enthusiast | Creative Digital Builder</h3>
-
-
 
 <p align="center">"Code with Purpose. Build with Passion."</p>
 
